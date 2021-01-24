@@ -11,6 +11,13 @@ Algunos con uso general en temas como:
 * Defensa
 * OSINT
 
+## **Algunas herramientase del repositorio:**
+
+* Escaner TCP en bash: El uso es sencillo, hay que especificar la red dentro del script
+* DNS spoofing en Python: Spoofing selectivo, suplanta el sitio que se ingresa por CLI
+
+
+
 
 
 

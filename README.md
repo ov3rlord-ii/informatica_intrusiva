@@ -11,7 +11,7 @@ Algunos con uso general en temas como:
 * Defensa
 * OSINT
 
-## **Algunas herramientase del repositorio:**
+## **Herramientas del repositorio:**
 
 * **Networking**
   * tcpscan.sh: Escaner TCP/ICMP/ARP: https://informaticaintrusiva.tech/2021/01/14/escaneo-de-redes-que-hacer-ante-la-ausencia-de-nmap/)

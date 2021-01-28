@@ -16,6 +16,8 @@ Algunos con uso general en temas como:
 * **Networking**
   * tcpscan.sh: Escaner TCP/ICMP/ARP (https://informaticaintrusiva.tech/2021/01/14/escaneo-de-redes-que-hacer-ante-la-ausencia-de-nmap/)
   * dnsproxy.py: Spoofing de DNS selectivo, suplanta el sitio que se ingresa por CLI (https://informaticaintrusiva.tech/2021/01/20/dns-spoofing-con-python/)
+* **Malware**
+  * Backdoor.go: Backdooring ejecutando shellcodes de metasploit (https://informaticaintrusiva.tech/2021/01/24/ejecucion-de-shellcode-de-metasploit-usando-golang/)
 
 
 

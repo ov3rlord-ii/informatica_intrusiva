@@ -18,6 +18,7 @@ Algunos con uso general en temas como:
   * dnsproxy.py: Spoofing de DNS selectivo, suplanta el sitio que se ingresa por CLI (https://informaticaintrusiva.tech/2021/01/20/dns-spoofing-con-python/)
 * **Malware**
   * Backdoor.go: Backdooring ejecutando shellcodes de metasploit (https://informaticaintrusiva.tech/2021/01/24/ejecucion-de-shellcode-de-metasploit-usando-golang/)
+  * chrome80_dbdecrypt.go: Extrayendo credenciales de Chrome v80 (https://informaticaintrusiva.tech/2021/02/16/extraer-datos-cifrados-de-chrome80/)
 
 
 
